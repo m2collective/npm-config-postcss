@@ -1,31 +1,43 @@
 {
-  "name": "@bu0nq/workspace.frontend.config.postcss",
+  "name": "@m2collective/npm-config-postcss",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.1.1",
+  "description": "Basic stylelint setting for optimizing styles.",
   "keywords": [
-    "workspace",
-    "frontend",
+    "m2collective",
+    "npm",
     "config",
+    "stylelint",
+    "front-end",
+    "style",
     "postcss"
   ],
   "main": "index.js",
-  "devDependencies": {
+  "exports": {
+    ".": {
+      "default": "./index.js"
+    }
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
     "postcss-preset-env": "^10.4.0",
     "postcss-pxtorem": "^6.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bu0nq/workspace.frontend.config.postcss.git"
   },
   "author": {
     "name": "bu0nq",
     "email": "hello@bu0nq.ru"
   },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bu0nq/workspace.frontend.config.postcss/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m2collective/config-postcss.git"
   },
-  "homepage": "https://github.com/bu0nq/workspace.frontend.config.postcss#readme",
+  "bugs": {
+    "url": "https://github.com/m2collective/config-postcss/issues"
+  },
+  "homepage": "https://github.com/m2collective/config-postcss#readme",
   "publishConfig": {
     "access": "public"
   }
