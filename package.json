@@ -1,8 +1,8 @@
 {
   "name": "@m2collective/npm-config-postcss",
   "type": "module",
-  "version": "0.1.1",
-  "description": "Basic stylelint setting for optimizing styles.",
+  "version": "0.1.0",
+  "description": "Basic PostCss setting for optimizing styles.",
   "keywords": [
     "m2collective",
     "npm",
