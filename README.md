@@ -3,7 +3,7 @@
 Basic PostCss setting for optimizing styles.
 
 ![npm](https://img.shields.io/npm/v/@m2collective/npm-config-postcss?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/@m2collective/npm-config-postcss?style=for-the-badge)
+
 ___
 
 ## Installation
