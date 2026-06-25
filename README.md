@@ -11,7 +11,7 @@ ___
 This package can be deployed automatically using NPM:
 
 ```
-npm i @m2collective/npm-config-postcss
+npm i @m2collective/npm-config-postcss --save-dev
 ```
 
 ## Usage
