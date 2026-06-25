@@ -7,9 +7,8 @@
     "m2collective",
     "npm",
     "config",
-    "stylelint",
-    "style",
-    "postcss"
+    "postcss",
+    "style"
   ],
   "main": "index.js",
   "exports": {
